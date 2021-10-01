@@ -21,3 +21,4 @@ fs.open('input.txt', 'r+', function(err, fd) {
    }
    console.log("File opened successfully!");     
 });
+// hai
